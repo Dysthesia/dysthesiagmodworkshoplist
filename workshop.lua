@@ -322,7 +322,24 @@ print("Version 6.27.22")
 
 
 -- ENTITY:
+	
+	-- GPaint
+		resource.AddWorkshop(2697023796)
+	-- Soccer Ball
+		resource.AddWorkshop(293904092)
+	-- Food and Household Items
+		resource.AddWorkshop(108024198)
+		
 -- EFFECTS:
+
+
+	-- Dark Mode
+		resource.AddWorkshop(888392108)
+	-- HL2 Pickup
+		resource.AddWorkshop(1761820193)
+	
+
+
 -- MODEL:
 
 	-- Genshin Impact Character Pack - PMs and NPCs
@@ -353,6 +370,7 @@ print("Version 6.27.22")
 		resource.AddWorkshop(2366653438)
 	-- DBD halloween props
 		resource.AddWorkshop(2231283339)
+
 		
 		
 		
